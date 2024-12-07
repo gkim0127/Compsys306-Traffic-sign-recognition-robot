@@ -1,4 +1,4 @@
-# Compsys306-Traffic-sign-recognition-robot
+
 Compsys 306 course project 
 
 ## Developing a robot that performs real-time traffic sign recognition and operates accordingly
